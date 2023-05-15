@@ -1,0 +1,194 @@
+[
+    {
+        "id": "1",
+        "chefPic": "https://assets.architecturaldigest.in/photos/60083541a8f8397741703e8f/4:3/w_1024,h_768,c_limit/gaggan-anand-main-1366x768.jpg",
+        "chefName": "Gaggan Anand",
+        "chefBio": "Gaggan Anand (born in Kolkata, India) is an Indian chef and the owner and executive chef of the progressive Indian restaurant Gaggan in Bangkok, Thailand.",
+        "chefExperience": "5 years",
+        "noOfRecipes": "5",
+        "likes": "800",
+        "recipes": [
+            {
+                "rId": "1",
+                "rName": "Kabab",
+                "rItems": "refined oil,ginger, mint leaves, egg, cinnamon stick, clove, cumin seeds, red chilli, chicken thighs, garlic, green chilli, coriander leaves, carom seeds, black pepper, coriander leaves, dry red chili, salt, chana dal",
+                "rMethod": "For authentic kebabs, cook them over the high heat of a wood fire or use a charcoal grill , which provides the smokiness and charred flavor of a classic kebab. You can also use a gas grill, or, in a pinch, cook the shish kebabs under the oven broiler.",
+                "rRating": "4.5"
+            },
+            {
+                "rId": "2",
+                "rName": "Kheer",
+                "rItems": "rice, milk, sugar, almonds, cardamom powder",
+                "rMethod": "After the milk begins to boil, drain all the water from the rice and add it to the boiling milk.Simmer and cook the rice on low heat. No need to cover the pan when the rice is cooking.Cook the rice grains till they are 50% done or half-done. Then, add 5 to 6 tablespoons sugar or as required. You can add raw sugar or white sugar. I generally use unrefined raw sugar.Mix the sugar in the milk.",
+                "rRating": "4.2"
+            },
+            {
+                "rId": "3",
+                "rName": "Samosa",
+                "rItems": "flour (maida), ajwain carom seeds, salt, oil, water, chicken",
+                "rMethod": "Fry the samosa on low heat the most important thing- always fry the samosa on low heat (not high, not medium), that way they will turn crisp. Once they have become light brown in color (after 10 minutes or so), then you can increase the heat and fry on medium heat.",
+                "rRating": "4.0"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chefPic": "https://www.timeoutabudhabi.com/cloud/timeoutabudhabi/2021/09/10/spW8fdBG-Kunal-Kapur3-1.jpg",
+        "chefName": "Kunal Kapur",
+        "chefBio": "Kunal Kapur (born 18 September 1979) is an Indian chef and restaurateur known for hosting and judging MasterChef India.",
+        "chefExperience": "10 years",
+        "noOfRecipes": "3",
+        "likes": "1000",
+        "recipes": [
+            {
+                "rId": "1",
+                "rName": "Dosa",
+                "rItems": "urad dal, water, rice, chana dal, fenugreek seeds",
+                "rMethod": "Soak rice and urad dal. Process rice and urad dal mixture in commercial grinder or food processor. While grinding, add water a cup at a time until it reaches the consistency of pancake batter. Salt to taste.Add oil or ghee to a skillet. Add mustard seeds and chana dal.Shake mixture over the flame until golden brown.Add curry leaves, green chiles, and onions. Sprinkle turmeric powder and salt.Break up boiled potato into small chunks and add them to your mixture. Add water and stir.Brush on ghee (or regular butter) to frying dosa. Place filling near the center of the dosa.Begin rolling from the edge of the dosa as you would a wrap.",
+                "rRating": "5.0"
+            },
+            {
+                "rId": "2",
+                "rName": "Pakora",
+                "rItems": "green chilli, ginger, tomato, flour, chilli powder, garam masala, ground coriander, potatoes",
+                "rMethod": "These slices are dipped in the batter and fried straight away . To make pakoras with fine cut ingredients like shredded veggies, thin slices of onions etc, we coat the ingredients with dry flour and mix to form a dough like pakora mixture. Small portions of this are deep fried until crisp, aromatic and golden.",
+                "rRating": "4.2"
+            },
+            {
+                "rId": "3",
+                "rName": "Sambar",
+                "rItems": "Mustard Seeds, Turmeric Powder, Red Chilli Powder, Asafoetida/hing, Sambar Powder, Toor Dal,Tamarind, Salt",
+                "rMethod": "Cooked vegetables, mashed dal, tamarind pulp and sambar powder are mixed together and then simmered for some minutes.Later a tempering is done of oil (or ghee) with mustard seeds, curry leaves, asafoetida (hing) and dry red chilies. This tempering or tadka is added to sambar. Together with the basic method of making this dish, there are many other regional variations. Sometimes a ground paste of coconut with spices is added.",
+                "rRating": "4.0"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "chefPic": "https://imgnew.outlookindia.com/public/uploads/articles/2020/10/10/sanjeev_kapoor-1.png",
+        "chefName": "Sanjeev Kapoor",
+        "chefBio": "Sanjeev Kapoor (born 10 April 1964) is an Indian celebrity chef, entrepreneur and television personality. Kapoor hosted the TV show Khana Khazana, the longest running show of its kind in Asia which was broadcast in 120 countries and in 2010 had more than 500 million viewers.[1] He is also the first chef in the world to own a 24X7 food and lifestyle channel, Food Food which was launched in January 2011.",
+        "chefExperience": "20 years",
+        "noOfRecipes": "4",
+        "likes": "2000",
+        "recipes": [
+            {
+                "rId": "1",
+                "rName": "Papdi Chaat",
+                "rItems": "papdi crispy puri, curd (yogurt), onion, tomato, coriander leaves, Mint-Coriander Chutney",
+                "rMethod": "Start by prepping the ingredients for papdi chaat. Once the chickpeas have soaked rinse them again,drain the water and add the chickpeas to a 2 liter stovetop pressure cooker with ½ teaspoon of salt. Add 2 cups of water. Place a steel bowl on the chickpeas in the cooker.",
+                "rRating": "4.8"
+            },
+            {
+                "rId": "2",
+                "rName": "Matar Paneer",
+                "rItems": "sunflower oil, paneer, ginger, cumin, turmeric,coriander, green chilli, tomatoes",
+                "rMethod": "Heat the oil in a frying pan over high heat until it's shimmering hot. Add the paneer, then turn the heat down a little. Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min.",
+                "rRating": "4.0"
+            },
+            {
+                "rId": "3",
+                "rName": "Dal Tadka",
+                "rItems": "tuvar dal, masoor dal, green chilies, onions, tomatoes",
+                "rMethod": "Transfer the hot cooked lentils to a serving bowl. Pour 2 tbsps ghee to a small pan & heat it on a medium heat. Add cumin seeds and let them fry on a low heat until aromatic. Next add red chilies and give a good stir. Stir in asafoetida and red chili powder. Garnish dal tadka with coriander leaves.",
+                "rRating": "4.8"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "chefPic": "https://i0.wp.com/bharatflux.com/wp-content/uploads/2023/03/Chef-vikas-khanna-.jpg?fit=1080%2C1350&ssl=1",
+        "chefName": "Vikas Khanna",
+        "chefBio": "Vikas Khanna (born 14 November 1971) is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India. He is based in New York City.",
+        "chefExperience": "12 years",
+        "noOfRecipes": "3",
+        "likes": "850",
+        "recipes": [
+            {
+                "rId": "1",
+                "rName": "Biriyani",
+                "rItems": "boiled basmati rice, chicken, mint leaves, garam masala powder, saffron, refined oil, bay leaf, green cardamom",
+                "rMethod": "Add oil to a pot or pressure cooker and heat it. Add onions and fry till they turn golden. Next add chicken and fry until the color changes slightly to pale.Add chopped tomatoes, yogurt, red chili powder, coriander leaves and mint. Cook until the mixture turns thick and dry.",
+                "rRating": "5.0"
+            },
+            {
+                "rId": "2",
+                "rName": "Raita",
+                "rItems": "Greek yogurt, garlic, ginger, coriander, mint, leaves, garam masala, cucumber",
+                "rMethod": "Add curd and salt to a mixing bowl. Whisk them until smooth with a fork or a whisk. Next add chopped cucumbers, onions, cumin powder, coriander leaves and green chilies. Stir gently. If required add more yogurt. Garnish with cumin powder on top. Serve raita with biryani, pulao, kebabs or paratha.",
+                "rRating": "4.2"
+            },
+            {
+                "rId": "3",
+                "rName": "Paneer Tikka",
+                "rItems": "cubed paneer, tomato, grated cheese cubes, onion, capsicum, mustard oil, chaat masala, garam masala powder",
+                "rMethod": "The process is pretty simple, you marinate the paneer with spices and yogurt, let it sit for a bit so that the flavors mix well together and then arrange the paneer cubes along with onion and peppers in a skewer and grill . However, the taste of paneer tikka lies in its marination of course.",
+                "rRating": "3.9"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "chefPic": "https://realcooks.co.uk/templates/yootheme/cache/91/vineet-bhatia-9150b3ee.jpeg",
+        "chefName": "Vineet Bhatia",
+        "chefBio": "Vineet Bhatia MBE (born 9 December 1967) is a British chef, restaurateur, author, and media personality. He was the first chef of Indian origin to be awarded a Michelin star. He opened two Rasoi restaurants, the first in Chelsea, London in 2004, and the second in Geneva, Switzerland, in 2008.",
+        "chefExperience": "18 years",
+        "noOfRecipes": "3",
+        "likes": "1500",
+        "recipes": [
+            {
+                "rId": "1",
+                "rName": "Palak Paneer",
+                "rItems": "paneer (Indian cottage cheese), palak (spinach), oil (or half oil & half butter), green chilies, onions",
+                "rMethod": "The conventional method of making palak paneer is to blanch the spinach leaves and then puree it . This spinach puree is later cooked with spices, onions and tomatoes until a thick curry like consistency is achieved. Finally paneer is simmered in that sauce.",
+                "rRating": "4.0"
+            },
+            {
+                "rId": "2",
+                "rName": "Tandoori Chicken",
+                "rItems": "chicken, Greek yogurt, ginger, garlic paste, red chilli powder, black pepper, coriander powder, salt, Turmeric",
+                "rMethod": "Skinless legs and thighs are marinated in a tenderizing mixture of yogurt, lemon juice, and spices and the meat is slashed to the bone in several places helping the marinade penetrate and the chicken cook more quickly.The chicken gets its characteristic red hue from either lots of fiery chile or the addition of red food dye.",
+                "rRating": "4.8"
+            },
+            {
+                "rId": "3",
+                "rName": "Vada Pao",
+                "rItems": "oil, hing, mustard seeds, saunf, onion, green chilli, garlic paste, potato",
+                "rMethod": "deep fry in hot oil stirring occasionally . now slit the ladi pav and spread 1 tsp green chutney, ½ tsp tamarind chutney and ½ tsp dry garlic chutney. place the prepared vada in center of pav, chura and fried chilli. Finally, press the vada pav and serve immediately",
+                "rRating": "4.1"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "chefPic": "https://xploringindia.in/wp-content/uploads/2022/01/Chef-Ranveer-Brar.jpg",
+        "chefName": "Zabir Khan",
+        "chefBio": "Zabir Khan is a dropout student of Harvard University whose passion is cooking since his childhood. Now He is the owner of a restaurant that is situated in Canada",
+        "chefExperience": "8 years",
+        "noOfRecipes": "3",
+        "likes": "1300",
+        "recipes": [
+            {
+                "rId": "1",
+                "rName": "Malai Kofta",
+                "rItems": "paneer,  potato boiled, corn flour, ginger paste, coriander leaves, salt, cashews, raisins",
+                "rMethod": "For the gravy you need onion paste, cashew paste and tomato paste. Cashew paste and tomato purée can be prepped ahead and refrigerated for a day.You can choose to make and shape the kofta mixture a day before and refrigerate them to ease your work. This is what I do on occasions. So next day you will only need to fry the kofta and make the gravy.",
+                "rRating": "4.5"
+            },
+            {
+                "rId": "2",
+                "rName": "Chole Bhatura",
+                "rItems": "chickpeas, cumin, onions, ginger, tomato puree, onion paste, coriander powder, salt",
+                "rMethod": "First rinse 1 cup white chickpeas a couple of times in water. Next day they will double in size. Then drain the water. In a 3 liter pressure cooker add the chickpeas. Pressure cook chickpeas for 10 to 12 whistles or for about 15 to 20 minutes or till they are tender and cooked well.",
+                "rRating": "3.5"
+            },
+            {
+                "rId": "3",
+                "rName": "Butter Chicken",
+                "rItems": "skinless chicken thighs, plain yogurt, olive oil, ginger, garlic paste, coriander seed, Kashmiri Lal Mirch, cumin, salt",
+                "rMethod": "Fry the samosa on low heat the most important thing- always fry the samosa on low heat (not high, not medium), that way they will turn crisp. Once they have become light brown in color (after 10 minutes or so), then you can increase the heat and fry on medium heat.",
+                "rRating": "4.0"
+            }
+        ]
+    }
+]
